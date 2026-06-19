@@ -5,7 +5,11 @@ This repository documents my beginner-friendly Proxmox home lab built for IT, Sy
 The goal of this lab is to practice real operational workflows in a safe local environment, including Linux administration, SSH hardening, firewall configuration, web server logging, basic reconnaissance simulation, and incident documentation.
 
 > This is a personal learning lab. It does not contain production data, real company data, credentials, or exposed services.
+> 
+## Repository Structure
 
+- [Lab Overview](docs/01-lab-overview.md)
+- [Mini Incident Report: SSH Failed Login and Web Path Probing](incidents/mini-incident-ssh-web-probing.md)
 ---
 
 ## Lab Goals
