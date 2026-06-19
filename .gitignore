@@ -1,0 +1,42 @@
+# Secrets and credentials
+
+*.key
+*.pem
+*.ppk
+*.crt
+*.pfx
+*.p12
+*.ovpn
+*.env
+.env
+secrets.*
+credentials.*
+passwords.*
+tokens.*
+
+# Password databases and backups
+
+*.kdbx
+*.zip
+*.7z
+*.tar
+*.gz
+*.bak
+*.backup
+
+# Private exports and screenshots
+
+exports/
+backup/
+screenshots/private/
+
+# Logs that may contain private lab details
+
+*.log
+
+# OS and editor files
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
